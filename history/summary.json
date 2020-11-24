@@ -1,11 +1,67 @@
 [
   {
+    "name": "Chez Daniel",
+    "url": "https://www.chez-daniel.com",
+    "slug": "chez-daniel",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 532
+  },
+  {
+    "name": "Chor unterwegs",
+    "url": "https://www.chor-unterwegs.org",
+    "slug": "chor-unterwegs",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 702
+  },
+  {
+    "name": "Eventbackend",
+    "url": "https://eventbackend.de",
+    "slug": "eventbackend",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2370
+  },
+  {
+    "name": "GSS Bruno",
+    "url": "https://www.gss-bruno.de",
+    "slug": "gss-bruno",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2922
+  },
+  {
+    "name": "Hochzeitskribbeln",
+    "url": "https://www.hochzeitskribbeln.com",
+    "slug": "hochzeitskribbeln",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2791
+  },
+  {
+    "name": "Janine Röber",
+    "url": "https://www.janine-roeber.de",
+    "slug": "janine-roeber",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 627
+  },
+  {
+    "name": "Koblenz Tennis",
+    "url": "https://www.koblenz-tennis.de",
+    "slug": "koblenz-tennis",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 704
+  },
+  {
     "name": "Lefuex",
     "url": "https://www.lefuex.de",
     "slug": "lefuex",
     "status": "up",
     "uptime": "100.00%",
-    "time": 841
+    "time": 865
   },
   {
     "name": "Miss Evangeline",
@@ -13,7 +69,7 @@
     "slug": "miss-evangeline",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4680
+    "time": 4035
   },
   {
     "name": "Miss Evangeline Business",
@@ -21,14 +77,22 @@
     "slug": "miss-evangeline-business",
     "status": "up",
     "uptime": "100.00%",
-    "time": 4582
+    "time": 3708
   },
   {
-    "name": "Chez Daniel",
-    "url": "https://www.chez-daniel.com",
-    "slug": "chez-daniel",
+    "name": "Muthandel",
+    "url": "https://www.muthandel.de",
+    "slug": "muthandel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 474
+    "time": 1155
+  },
+  {
+    "name": "Praxis Fehlerteufel",
+    "url": "https://www.praxis-fehlerteufel.de",
+    "slug": "praxis-fehlerteufel",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 964
   }
 ]
