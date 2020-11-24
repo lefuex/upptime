@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Lefuex",
+    "url": "https://www.lefuex.de",
+    "slug": "lefuex",
     "status": "up",
     "uptime": "100.00%",
-    "time": 127
+    "time": 841
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Miss Evangeline",
+    "url": "https://www.miss-evangeline.de",
+    "slug": "miss-evangeline",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 346
+    "uptime": "100.00%",
+    "time": 4680
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Miss Evangeline Business",
+    "url": "https://business.miss-evangeline.de",
+    "slug": "miss-evangeline-business",
     "status": "up",
-    "uptime": "99.97%",
-    "time": 49
+    "uptime": "100.00%",
+    "time": 4582
+  },
+  {
+    "name": "Chez Daniel",
+    "url": "https://www.chez-daniel.com",
+    "slug": "chez-daniel",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 474
   }
 ]
