@@ -4,14 +4,31 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Chez Daniel
+    url: https://www.chez-daniel.com
+  - name: Chor unterwegs
+    url: https://www.chor-unterwegs.org
+  - name: Eventbackend
+    url: https://eventbackend.de
+  - name: GSS Bruno
+    url: https://www.gss-bruno.de
+  - name: Hochzeitskribbeln
+    url: https://www.hochzeitskribbeln.com
+  - name: Janine Röber
+    url: https://www.janine-roeber.de
+  - name: Koblenz Tennis
+    url: https://www.koblenz-tennis.de
   - name: Lefuex
     url: https://www.lefuex.de
   - name: Miss Evangeline
     url: https://www.miss-evangeline.de
   - name: Miss Evangeline Business
     url: https://business.miss-evangeline.de
-  - name: Chez Daniel
-    url: https://www.chez-daniel.com
+  - name: Muthandel
+    url: https://www.muthandel.de
+  - name: Praxis Fehlerteufel
+    url: https://www.praxis-fehlerteufel.de
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -20,13 +37,19 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**Upptime** uptime monitor"
+  introMessage: Status page
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
+
+notifications:
+  - type: email
+
+assignees:
+  - lefuex
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
