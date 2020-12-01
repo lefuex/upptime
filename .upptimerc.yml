@@ -30,6 +30,8 @@ sites:
     url: https://www.praxis-fehlerteufel.de
   - name: Trauringe Siegburg
     url: https://www.trauringesiegburg.de  
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
