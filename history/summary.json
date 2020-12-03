@@ -5,7 +5,15 @@
     "slug": "chez-daniel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 575
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 587,
+    "timeDay": 720,
+    "timeWeek": 599,
+    "timeMonth": 587,
+    "timeYear": 587
   },
   {
     "name": "Chor unterwegs",
@@ -13,7 +21,15 @@
     "slug": "chor-unterwegs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 696
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 690,
+    "timeDay": 617,
+    "timeWeek": 678,
+    "timeMonth": 690,
+    "timeYear": 690
   },
   {
     "name": "Eventbackend",
@@ -21,7 +37,15 @@
     "slug": "eventbackend",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1288
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1267,
+    "timeDay": 1029,
+    "timeWeek": 1137,
+    "timeMonth": 1267,
+    "timeYear": 1267
   },
   {
     "name": "GSS Bruno",
@@ -29,7 +53,15 @@
     "slug": "gss-bruno",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2280
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2192,
+    "timeDay": 1222,
+    "timeWeek": 2043,
+    "timeMonth": 2192,
+    "timeYear": 2192
   },
   {
     "name": "Hochzeitskribbeln",
@@ -37,7 +69,15 @@
     "slug": "hochzeitskribbeln",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1560
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1648,
+    "timeDay": 2609,
+    "timeWeek": 1547,
+    "timeMonth": 1648,
+    "timeYear": 1648
   },
   {
     "name": "Janine Röber",
@@ -45,7 +85,15 @@
     "slug": "janine-roeber",
     "status": "up",
     "uptime": "100.00%",
-    "time": 617
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 611,
+    "timeWeek": 592,
+    "timeMonth": 617,
+    "timeYear": 617
   },
   {
     "name": "Koblenz Tennis",
@@ -53,7 +101,15 @@
     "slug": "koblenz-tennis",
     "status": "up",
     "uptime": "100.00%",
-    "time": 657
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 654,
+    "timeDay": 613,
+    "timeWeek": 630,
+    "timeMonth": 654,
+    "timeYear": 654
   },
   {
     "name": "Lefuex",
@@ -61,7 +117,15 @@
     "slug": "lefuex",
     "status": "up",
     "uptime": "100.00%",
-    "time": 833
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 829,
+    "timeDay": 776,
+    "timeWeek": 818,
+    "timeMonth": 829,
+    "timeYear": 829
   },
   {
     "name": "Miss Evangeline",
@@ -69,7 +133,15 @@
     "slug": "miss-evangeline",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2817
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2862,
+    "timeDay": 3393,
+    "timeWeek": 2701,
+    "timeMonth": 2862,
+    "timeYear": 2862
   },
   {
     "name": "Miss Evangeline Business",
@@ -77,7 +149,15 @@
     "slug": "miss-evangeline-business",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2740
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2775,
+    "timeDay": 3187,
+    "timeWeek": 2381,
+    "timeMonth": 2775,
+    "timeYear": 2775
   },
   {
     "name": "Muthandel",
@@ -85,7 +165,15 @@
     "slug": "muthandel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1118
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1119,
+    "timeDay": 1121,
+    "timeWeek": 1098,
+    "timeMonth": 1119,
+    "timeYear": 1119
   },
   {
     "name": "Praxis Fehlerteufel",
@@ -93,14 +181,30 @@
     "slug": "praxis-fehlerteufel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 762
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 760,
+    "timeDay": 737,
+    "timeWeek": 724,
+    "timeMonth": 760,
+    "timeYear": 760
   },
   {
     "name": "Trauringe Siegburg",
     "url": "https://www.trauringesiegburg.de",
     "slug": "trauringe-siegburg",
     "status": "up",
-    "uptime": "46.63%",
-    "time": 528
+    "uptime": "90.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "90.04%",
+    "uptimeYear": "90.04%",
+    "time": 507,
+    "timeDay": 443,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507
   }
 ]
