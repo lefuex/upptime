@@ -4,10 +4,10 @@
     "url": "https://www.chez-daniel.com",
     "icon": "https://favicons.githubusercontent.com/www.chez-daniel.com",
     "slug": "chez-daniel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
@@ -15,7 +15,9 @@
     "timeWeek": 569,
     "timeMonth": 642,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 1
+    }
   },
   {
     "name": "Chor unterwegs",
