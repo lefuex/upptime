@@ -156,10 +156,10 @@
     "url": "https://www.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/www.miss-evangeline.de",
     "slug": "miss-evangeline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2539,
@@ -167,16 +167,18 @@
     "timeWeek": 2217,
     "timeMonth": 2503,
     "timeYear": 2539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 2
+    }
   },
   {
     "name": "Miss Evangeline Business",
     "url": "https://business.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/business.miss-evangeline.de",
     "slug": "miss-evangeline-business",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +187,9 @@
     "timeWeek": 2966,
     "timeMonth": 3586,
     "timeYear": 3218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   },
   {
     "name": "Muthandel",
