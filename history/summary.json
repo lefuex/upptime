@@ -156,19 +156,19 @@
     "url": "https://www.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/www.miss-evangeline.de",
     "slug": "miss-evangeline",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2539,
-    "timeDay": 2853,
-    "timeWeek": 2217,
-    "timeMonth": 2503,
-    "timeYear": 2539,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2600,
+    "timeDay": 5006,
+    "timeWeek": 2835,
+    "timeMonth": 2644,
+    "timeYear": 2600,
     "dailyMinutesDown": {
-      "2021-02-02": 2
+      "2021-02-02": 18
     }
   },
   {
@@ -177,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/business.miss-evangeline.de",
     "slug": "miss-evangeline-business",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 3218,
     "timeDay": 3246,
     "timeWeek": 2966,
     "timeMonth": 3586,
     "timeYear": 3218,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 18
     }
   },
   {
