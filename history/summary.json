@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 570,
-    "timeDay": 466,
-    "timeWeek": 528,
-    "timeMonth": 538,
+    "timeDay": 633,
+    "timeWeek": 546,
+    "timeMonth": 541,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2021-01-23": 41
@@ -25,17 +25,23 @@
     "icon": "https://favicons.githubusercontent.com/www.chor-unterwegs.org",
     "slug": "chor-unterwegs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 551,
-    "timeWeek": 647,
-    "timeMonth": 636,
-    "timeYear": 682,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.78%",
+    "time": 683,
+    "timeDay": 820,
+    "timeWeek": 680,
+    "timeMonth": 642,
+    "timeYear": 683,
+    "dailyMinutesDown": {
+      "2021-02-02": 132,
+      "2021-01-23": 41,
+      "2021-01-06": 31,
+      "2020-12-24": 23,
+      "2020-12-01": 176
+    }
   },
   {
     "name": "Eventbackend",
@@ -48,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1244,
-    "timeDay": 1206,
-    "timeWeek": 1293,
-    "timeMonth": 1248,
-    "timeYear": 1244,
+    "time": 1246,
+    "timeDay": 1462,
+    "timeWeek": 1330,
+    "timeMonth": 1255,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2021-01-06": 16
     }
@@ -63,17 +69,23 @@
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2513,
-    "timeDay": 3782,
-    "timeWeek": 2891,
-    "timeMonth": 2829,
-    "timeYear": 2513,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.78%",
+    "time": 2517,
+    "timeDay": 3051,
+    "timeWeek": 2798,
+    "timeMonth": 2836,
+    "timeYear": 2517,
+    "dailyMinutesDown": {
+      "2021-02-02": 132,
+      "2021-01-23": 41,
+      "2021-01-06": 31,
+      "2020-12-24": 23,
+      "2020-12-01": 176
+    }
   },
   {
     "name": "Hochzeitskribbeln",
@@ -86,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1812,
-    "timeDay": 1084,
-    "timeWeek": 1568,
-    "timeMonth": 1819,
-    "timeYear": 1812,
+    "time": 1810,
+    "timeDay": 1652,
+    "timeWeek": 1424,
+    "timeMonth": 1813,
+    "timeYear": 1810,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 661,
-    "timeMonth": 617,
-    "timeYear": 609,
+    "time": 610,
+    "timeDay": 649,
+    "timeWeek": 663,
+    "timeMonth": 618,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2021-01-06": 15
     }
@@ -119,17 +131,23 @@
     "icon": "https://favicons.githubusercontent.com/www.koblenz-tennis.de",
     "slug": "koblenz-tennis",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 686,
-    "timeWeek": 668,
-    "timeMonth": 638,
-    "timeYear": 673,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.78%",
+    "time": 674,
+    "timeDay": 729,
+    "timeWeek": 680,
+    "timeMonth": 641,
+    "timeYear": 674,
+    "dailyMinutesDown": {
+      "2021-02-02": 132,
+      "2021-01-23": 41,
+      "2021-01-06": 31,
+      "2020-12-24": 23,
+      "2020-12-01": 176
+    }
   },
   {
     "name": "Lefuex",
@@ -142,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 858,
-    "timeDay": 880,
-    "timeWeek": 875,
-    "timeMonth": 867,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 991,
+    "timeWeek": 892,
+    "timeMonth": 871,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2020-12-24": 23
     }
@@ -162,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2589,
-    "timeDay": 3905,
-    "timeWeek": 3043,
-    "timeMonth": 2733,
-    "timeYear": 2589,
+    "time": 2600,
+    "timeDay": 4062,
+    "timeWeek": 3066,
+    "timeMonth": 2775,
+    "timeYear": 2600,
     "dailyMinutesDown": {
       "2021-02-02": 47
     }
@@ -182,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 3245,
-    "timeDay": 3406,
-    "timeWeek": 3546,
-    "timeMonth": 3340,
-    "timeYear": 3245,
+    "time": 3249,
+    "timeDay": 3744,
+    "timeWeek": 3468,
+    "timeMonth": 3353,
+    "timeYear": 3249,
     "dailyMinutesDown": {
       "2021-02-02": 85
     }
@@ -197,17 +215,23 @@
     "icon": "https://favicons.githubusercontent.com/www.muthandel.de",
     "slug": "muthandel",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1406,
-    "timeDay": 2114,
-    "timeWeek": 2155,
+    "uptimeYear": "99.78%",
+    "time": 1412,
+    "timeDay": 2293,
+    "timeWeek": 2190,
     "timeMonth": 2299,
-    "timeYear": 1406,
-    "dailyMinutesDown": {}
+    "timeYear": 1412,
+    "dailyMinutesDown": {
+      "2021-02-02": 132,
+      "2021-01-23": 41,
+      "2021-01-06": 31,
+      "2020-12-24": 23,
+      "2020-12-01": 176
+    }
   },
   {
     "name": "Praxis Fehlerteufel",
@@ -220,11 +244,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 824,
-    "timeWeek": 811,
-    "timeMonth": 798,
-    "timeYear": 767,
+    "time": 768,
+    "timeDay": 892,
+    "timeWeek": 829,
+    "timeMonth": 801,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -238,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1940,
-    "timeDay": 1294,
-    "timeWeek": 2272,
-    "timeMonth": 2450,
-    "timeYear": 1940,
+    "time": 1952,
+    "timeDay": 3382,
+    "timeWeek": 2515,
+    "timeMonth": 2481,
+    "timeYear": 1952,
     "dailyMinutesDown": {
       "2020-12-01": 176
     }
