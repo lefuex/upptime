@@ -232,17 +232,17 @@
     "url": "https://www.trauringesiegburg.de",
     "icon": "https://favicons.githubusercontent.com/www.trauringesiegburg.de",
     "slug": "trauringe-siegburg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2007,
-    "timeDay": 3072,
-    "timeWeek": 2417,
-    "timeMonth": 2439,
-    "timeYear": 2007,
+    "time": 2015,
+    "timeDay": 3075,
+    "timeWeek": 2500,
+    "timeMonth": 2459,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2020-12-01": 176
     }
