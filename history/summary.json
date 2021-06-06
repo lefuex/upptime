@@ -215,9 +215,9 @@
     "url": "https://www.praxis-fehlerteufel.de",
     "icon": "https://favicons.githubusercontent.com/www.praxis-fehlerteufel.de",
     "slug": "praxis-fehlerteufel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,7 +226,9 @@
     "timeWeek": 761,
     "timeMonth": 736,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-06": 0
+    }
   },
   {
     "name": "Trauringe Siegburg",
