@@ -80,9 +80,9 @@
     "url": "https://www.hochzeitskribbeln.com",
     "icon": "https://favicons.githubusercontent.com/www.hochzeitskribbeln.com",
     "slug": "hochzeitskribbeln",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1737,
     "timeMonth": 1852,
     "timeYear": 1834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-13": 0
+    }
   },
   {
     "name": "Janine Röber",
