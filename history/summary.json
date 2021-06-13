@@ -158,9 +158,9 @@
     "url": "https://www.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/www.miss-evangeline.de",
     "slug": "miss-evangeline",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -170,6 +170,7 @@
     "timeMonth": 1685,
     "timeYear": 2608,
     "dailyMinutesDown": {
+      "2021-06-13": 0,
       "2021-05-09": 77,
       "2021-02-02": 47
     }
@@ -179,9 +180,9 @@
     "url": "https://business.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/business.miss-evangeline.de",
     "slug": "miss-evangeline-business",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -191,6 +192,7 @@
     "timeMonth": 1780,
     "timeYear": 2991,
     "dailyMinutesDown": {
+      "2021-06-13": 0,
       "2021-02-02": 85
     }
   },
