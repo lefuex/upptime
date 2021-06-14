@@ -239,9 +239,9 @@
     "url": "https://www.trauringesiegburg.de",
     "icon": "https://favicons.githubusercontent.com/www.trauringesiegburg.de",
     "slug": "trauringe-siegburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -251,6 +251,7 @@
     "timeMonth": 2348,
     "timeYear": 2126,
     "dailyMinutesDown": {
+      "2021-06-14": 0,
       "2020-12-01": 176
     }
   }
