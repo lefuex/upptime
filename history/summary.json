@@ -120,9 +120,9 @@
     "url": "https://www.koblenz-tennis.de",
     "icon": "https://favicons.githubusercontent.com/www.koblenz-tennis.de",
     "slug": "koblenz-tennis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +131,9 @@
     "timeWeek": 580,
     "timeMonth": 627,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 0
+    }
   },
   {
     "name": "Lefuex",
@@ -241,12 +243,12 @@
     "slug": "trauringe-siegburg",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 2117,
-    "timeDay": 1218,
+    "timeDay": 1155,
     "timeWeek": 1550,
     "timeMonth": 2306,
     "timeYear": 2117,
