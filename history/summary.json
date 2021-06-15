@@ -120,19 +120,19 @@
     "url": "https://www.koblenz-tennis.de",
     "icon": "https://favicons.githubusercontent.com/www.koblenz-tennis.de",
     "slug": "koblenz-tennis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 537,
-    "timeWeek": 580,
-    "timeMonth": 627,
-    "timeYear": 667,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 666,
+    "timeDay": 568,
+    "timeWeek": 582,
+    "timeMonth": 626,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2021-06-15": 0
+      "2021-06-15": 28
     }
   },
   {
