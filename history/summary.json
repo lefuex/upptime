@@ -62,19 +62,19 @@
     "url": "https://www.gss-bruno.de",
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2411,
-    "timeDay": 2090,
-    "timeWeek": 1758,
-    "timeMonth": 1718,
-    "timeYear": 2411,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2409,
+    "timeDay": 2019,
+    "timeWeek": 1781,
+    "timeMonth": 1726,
+    "timeYear": 2409,
     "dailyMinutesDown": {
-      "2021-07-10": 0
+      "2021-07-10": 18
     }
   },
   {
