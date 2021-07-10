@@ -62,9 +62,9 @@
     "url": "https://www.gss-bruno.de",
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 1758,
     "timeMonth": 1718,
     "timeYear": 2411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 0
+    }
   },
   {
     "name": "Hochzeitskribbeln",
