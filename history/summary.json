@@ -45,18 +45,19 @@
     "url": "https://eventbackend.de",
     "icon": "https://favicons.githubusercontent.com/eventbackend.de",
     "slug": "eventbackend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1192,
     "timeDay": 999,
     "timeWeek": 916,
     "timeMonth": 894,
     "timeYear": 1192,
     "dailyMinutesDown": {
+      "2021-07-31": 3,
       "2021-01-06": 16
     }
   },
@@ -65,11 +66,11 @@
     "url": "https://www.gss-bruno.de",
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2328,
     "timeDay": 891,
@@ -77,6 +78,7 @@
     "timeMonth": 1522,
     "timeYear": 2328,
     "dailyMinutesDown": {
+      "2021-07-31": 2,
       "2021-07-10": 18
     }
   },
@@ -125,10 +127,10 @@
     "url": "https://www.koblenz-tennis.de",
     "icon": "https://favicons.githubusercontent.com/www.koblenz-tennis.de",
     "slug": "koblenz-tennis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 649,
@@ -137,6 +139,7 @@
     "timeMonth": 582,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2021-07-31": 2,
       "2021-06-15": 28
     }
   },
@@ -168,10 +171,10 @@
     "url": "https://www.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/www.miss-evangeline.de",
     "slug": "miss-evangeline",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2361,
@@ -180,6 +183,7 @@
     "timeMonth": 1127,
     "timeYear": 2361,
     "dailyMinutesDown": {
+      "2021-07-31": 1,
       "2021-06-13": 32,
       "2021-05-09": 77,
       "2021-02-02": 47
@@ -190,10 +194,10 @@
     "url": "https://business.miss-evangeline.de",
     "icon": "https://favicons.githubusercontent.com/business.miss-evangeline.de",
     "slug": "miss-evangeline-business",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2641,
@@ -202,6 +206,7 @@
     "timeMonth": 946,
     "timeYear": 2641,
     "dailyMinutesDown": {
+      "2021-07-31": 1,
       "2021-06-13": 22,
       "2021-02-02": 85
     }
@@ -229,10 +234,10 @@
     "url": "https://www.praxis-fehlerteufel.de",
     "icon": "https://favicons.githubusercontent.com/www.praxis-fehlerteufel.de",
     "slug": "praxis-fehlerteufel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 748,
@@ -241,6 +246,7 @@
     "timeMonth": 650,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2021-07-31": 1,
       "2021-06-06": 38
     }
   },
@@ -249,9 +255,9 @@
     "url": "https://www.trauringesiegburg.de",
     "icon": "https://favicons.githubusercontent.com/www.trauringesiegburg.de",
     "slug": "trauringe-siegburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -261,6 +267,7 @@
     "timeMonth": 1289,
     "timeYear": 1982,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-06-17": 25,
       "2021-06-14": 24,
       "2020-12-01": 176
