@@ -25,10 +25,10 @@
     "url": "https://www.chor-unterwegs.org",
     "icon": "https://favicons.githubusercontent.com/www.chor-unterwegs.org",
     "slug": "chor-unterwegs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
@@ -37,6 +37,7 @@
     "timeMonth": 678,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2021-10-27": 2,
       "2021-07-20": 20
     }
   },
@@ -65,9 +66,9 @@
     "url": "https://www.gss-bruno.de",
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +78,7 @@
     "timeMonth": 1639,
     "timeYear": 2140,
     "dailyMinutesDown": {
+      "2021-10-27": 0,
       "2021-07-10": 18
     }
   },
