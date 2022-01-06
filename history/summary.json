@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 530,
-    "timeDay": 573,
-    "timeWeek": 474,
-    "timeMonth": 506,
+    "timeDay": 396,
+    "timeWeek": 476,
+    "timeMonth": 500,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2021-07-20": 21,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 682,
-    "timeWeek": 631,
-    "timeMonth": 680,
-    "timeYear": 661,
+    "time": 660,
+    "timeDay": 396,
+    "timeWeek": 601,
+    "timeMonth": 673,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2021-07-20": 20
     }
@@ -51,14 +51,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 920,
-    "timeWeek": 896,
-    "timeMonth": 901,
-    "timeYear": 1071,
-    "dailyMinutesDown": {
-      "2021-01-06": 16
-    }
+    "time": 1087,
+    "timeDay": 567,
+    "timeWeek": 852,
+    "timeMonth": 890,
+    "timeYear": 1069,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GSS Bruno",
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2022,
-    "timeDay": 1175,
-    "timeWeek": 1160,
-    "timeMonth": 1395,
-    "timeYear": 1967,
+    "time": 2020,
+    "timeDay": 906,
+    "timeWeek": 994,
+    "timeMonth": 1360,
+    "timeYear": 1966,
     "dailyMinutesDown": {
       "2021-07-10": 18
     }
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1540,
-    "timeDay": 1137,
-    "timeWeek": 1294,
-    "timeMonth": 1197,
-    "timeYear": 1505,
+    "time": 1538,
+    "timeDay": 812,
+    "timeWeek": 1210,
+    "timeMonth": 1175,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2021-06-13": 21
     }
@@ -112,13 +110,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 594,
-    "timeWeek": 529,
-    "timeMonth": 587,
-    "timeYear": 599,
-    "dailyMinutesDown": {
-      "2021-01-06": 15
-    }
+    "timeDay": 411,
+    "timeWeek": 511,
+    "timeMonth": 583,
+    "timeYear": 598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Koblenz Tennis",
@@ -131,10 +127,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 627,
-    "timeDay": 623,
-    "timeWeek": 526,
-    "timeMonth": 586,
+    "time": 626,
+    "timeDay": 428,
+    "timeWeek": 507,
+    "timeMonth": 582,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2021-06-15": 28
@@ -151,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1212,
-    "timeDay": 1609,
-    "timeWeek": 1950,
-    "timeMonth": 1886,
-    "timeYear": 1260,
+    "time": 1213,
+    "timeDay": 1306,
+    "timeWeek": 1718,
+    "timeMonth": 1894,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2021-07-28": 756,
       "2021-07-27": 34,
@@ -173,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1890,
-    "timeDay": 1190,
-    "timeWeek": 1053,
-    "timeMonth": 1071,
-    "timeYear": 1809,
+    "time": 1888,
+    "timeDay": 845,
+    "timeWeek": 1051,
+    "timeMonth": 1070,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2021-06-13": 32,
       "2021-05-09": 77,
@@ -195,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2071,
-    "timeDay": 1285,
-    "timeWeek": 1228,
-    "timeMonth": 1098,
-    "timeYear": 1959,
+    "time": 2068,
+    "timeDay": 602,
+    "timeWeek": 1191,
+    "timeMonth": 1093,
+    "timeYear": 1956,
     "dailyMinutesDown": {
       "2021-06-13": 22,
       "2021-02-02": 85
@@ -216,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1545,
-    "timeDay": 1984,
-    "timeWeek": 1527,
-    "timeMonth": 1644,
-    "timeYear": 1598,
+    "time": 1544,
+    "timeDay": 1267,
+    "timeWeek": 1519,
+    "timeMonth": 1636,
+    "timeYear": 1599,
     "dailyMinutesDown": {}
   },
   {
@@ -235,10 +231,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 714,
-    "timeDay": 740,
-    "timeWeek": 633,
-    "timeMonth": 651,
-    "timeYear": 709,
+    "timeDay": 540,
+    "timeWeek": 627,
+    "timeMonth": 650,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2021-06-06": 38
     }
@@ -254,11 +250,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1732,
-    "timeDay": 1408,
-    "timeWeek": 1362,
-    "timeMonth": 1379,
-    "timeYear": 1854,
+    "time": 1730,
+    "timeDay": 987,
+    "timeWeek": 1211,
+    "timeMonth": 1376,
+    "timeYear": 1855,
     "dailyMinutesDown": {
       "2021-06-17": 25,
       "2021-06-14": 24
