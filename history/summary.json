@@ -45,9 +45,9 @@
     "url": "https://eventbackend.de",
     "icon": "https://favicons.githubusercontent.com/eventbackend.de",
     "slug": "eventbackend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 869,
     "timeMonth": 891,
     "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-09": 0
+    }
   },
   {
     "name": "GSS Bruno",
