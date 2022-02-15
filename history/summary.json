@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/www.chez-daniel.com",
     "slug": "chez-daniel",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 526,
     "timeDay": 391,
@@ -16,7 +16,6 @@
     "timeMonth": 499,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-02-15": 10,
       "2022-01-30": 35,
       "2021-07-20": 21
     }
@@ -26,11 +25,11 @@
     "url": "https://www.chor-unterwegs.org",
     "icon": "https://favicons.githubusercontent.com/www.chor-unterwegs.org",
     "slug": "chor-unterwegs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 656,
     "timeDay": 599,
@@ -38,7 +37,7 @@
     "timeMonth": 616,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-02-15": 9,
+      "2022-02-15": 4,
       "2022-01-30": 35,
       "2021-07-20": 20
     }
@@ -48,10 +47,10 @@
     "url": "https://eventbackend.de",
     "icon": "https://favicons.githubusercontent.com/eventbackend.de",
     "slug": "eventbackend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1069,
@@ -60,6 +59,7 @@
     "timeMonth": 930,
     "timeYear": 1025,
     "dailyMinutesDown": {
+      "2022-02-15": 2,
       "2022-01-30": 35
     }
   },
@@ -68,10 +68,10 @@
     "url": "https://www.gss-bruno.de",
     "icon": "https://favicons.githubusercontent.com/www.gss-bruno.de",
     "slug": "gss-bruno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1981,
@@ -80,6 +80,7 @@
     "timeMonth": 1623,
     "timeYear": 1871,
     "dailyMinutesDown": {
+      "2022-02-15": 1,
       "2022-01-30": 35,
       "2021-07-10": 18
     }
